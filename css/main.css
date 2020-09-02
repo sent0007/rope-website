@@ -30,7 +30,7 @@ body {
 }
 
 header {
-  background-color: #eee;
+  background-color: #fff;
 }
 
 header nav ul {
@@ -48,7 +48,7 @@ ul li {
 li a {
   text-decoration: none;
   color: #000;
-  font-family: sans-serif;
+  font-family: 'Merriweather', serif;
 }
 
 .current {
