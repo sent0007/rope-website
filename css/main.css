@@ -67,6 +67,11 @@ main {
   background-color: #eee;
 }
 
+.img-flex {
+  width: 100%;
+  display: block;
+}
+
 footer {
   background-color: black;
 }
@@ -75,6 +80,8 @@ footer ul li{
   color: #fff;
   display: block;
 }
+
+
 @media only screen and (min-width: 38em) {
 
   .logo {
