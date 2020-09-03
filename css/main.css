@@ -22,6 +22,12 @@ body {
   margin: 0;
 }
 
+.phone-info {
+  margin: 0;
+  text-align: center;
+  background-color: #ffe5bc;
+}
+
 .logo{
   display: block;
   margin: auto;
@@ -64,12 +70,18 @@ li a:hover {
 }
 
 main {
-  background-color: #eee;
+  background-color: #fff;
 }
 
 .img-flex {
   width: 100%;
   display: block;
+}
+
+.border {
+  border: 3px solid grey;
+  border-right: none;
+
 }
 
 footer {
