@@ -22,10 +22,15 @@ body {
   margin: 0;
 }
 
+.phone-number {
+  margin-bottom: 0;
+  margin-right: 5px;
+}
+
 .phone-info {
-  margin: 0;
-  text-align: center;
-  background-color: #ffe5bc;
+  background-color: #efefef;
+  border-bottom: 2px solid #ddd;
+
 }
 
 .logo{
@@ -74,8 +79,7 @@ main {
 }
 
 .img-flex {
-  width: 100%;
-  display: block;
+display: inline-block;
 }
 
 .border {
